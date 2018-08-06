@@ -1,9 +1,9 @@
 # [WIP] Airloq
 RBAC, MAC, DAC security middleware for [Apollo](https://www.apollographql.com/)
 
-**R**ole __B__ased __A__ccess __C__ontrols (RBAC): Access based on roles (one or many)
-__M__andatory __A__ccess __C__ontrols (MAC): Access based on levels (one level and everything below)
-__D__iscrectionary __A__ccess __C__ontrols (DAC): Access based on identity (granted to a specific user or users)
+**R**ole **B**ased **A**ccess **C**ontrols (RBAC): Access based on roles (one or many)
+**M**andatory **A**ccess **C**ontrols (MAC): Access based on levels (one level and everything below)
+**D**iscrectionary **A**ccess **C**ontrols (DAC): Access based on identity (granted to a specific user or users)
 
 ## Concept
  - Issue encrypted [JWT](https://jwt.io/) with private claims containing access control metadata from the server to the client after authentication
