@@ -1,7 +1,7 @@
 # [WIP] Airloq
 RBAC, MAC, DAC security middleware for [Apollo](https://www.apollographql.com/)
 
-__R__ole __B__ased __A__ccess __C__ontrols (RBAC): Access based on roles (one or many)
+**R**ole __B__ased __A__ccess __C__ontrols (RBAC): Access based on roles (one or many)
 __M__andatory __A__ccess __C__ontrols (MAC): Access based on levels (one level and everything below)
 __D__iscrectionary __A__ccess __C__ontrols (DAC): Access based on identity (granted to a specific user or users)
 
