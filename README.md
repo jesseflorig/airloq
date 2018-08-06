@@ -27,4 +27,4 @@ type Airloq {
   dac: [ User ]  // Needs to be one of the users to access
 }
 ```
-_Maybe there is a need for a custome Airloq scalar type for every existing type?_
+_Maybe there is a need for a custom Airloq scalar type for every existing type?_
